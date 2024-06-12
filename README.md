@@ -3,7 +3,7 @@
 - ### JAVA
   - [JVM 메모리 구조](https://spotty-mushroom-2ad.notion.site/JVM-JVM-Memory-Structure-3f554fd8ab354f77a4ab177ae594cbb0?pvs=4)
   - [Garbage Collection](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
-  - 객체지향 특직 4가지
+  - [객체지](https://spotty-mushroom-2ad.notion.site/27093fd24e3d420d82756ee88cf8edbb?pvs=4)
     - [추상화](https://spotty-mushroom-2ad.notion.site/JVM-JVM-Memory-Structure-3f554fd8ab354f77a4ab177ae594cbb0?pvs=4)
     - [캡슐화](https://spotty-mushroom-2ad.notion.site/JVM-JVM-Memory-Structure-3f554fd8ab354f77a4ab177ae594cbb0?pvs=4)
     - [상속](https://spotty-mushroom-2ad.notion.site/JVM-JVM-Memory-Structure-3f554fd8ab354f77a4ab177ae594cbb0?pvs=4)
