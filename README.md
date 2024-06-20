@@ -11,6 +11,7 @@
   - [오버로딩](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
   - [오버라이딩](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
   - [생성자](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
+  - [추상클래스, Interface](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4,Interface.md)
   - [Servlet](https://github.com/sengmin14/CS-Study/blob/main/JAVA/Servlet.md)
   <br>
 
