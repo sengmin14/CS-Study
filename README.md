@@ -19,7 +19,6 @@
 - ### Database
   - [트랜잭션(ACID)](https://spotty-mushroom-2ad.notion.site/ACID-3f03050373784d8d9791ee39e8a7a36c?pvs=4)
   - [Isolation Level](https://spotty-mushroom-2ad.notion.site/Isolation-Level-b6471fff057947119b5032bd876a7170?pvs=4)
-
   <br>
   
 - ### Spring
@@ -36,5 +35,6 @@
 - ### 디자인 패턴
   - [빌더 패턴](https://github.com/sengmin14/CS-Study/blob/main/Spring/%EB%B9%8C%EB%8D%94%20%ED%8C%A8%ED%84%B4.md)
   - [팩토리 메서드 패턴](https://github.com/sengmin14/CS-Study/blob/main/Spring/FactoryMethodPattern.md)
+<br>
 
 - ### 운영체제
