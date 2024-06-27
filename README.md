@@ -2,6 +2,7 @@
 
 - ### JAVA
   - [JVM 메모리 구조](https://spotty-mushroom-2ad.notion.site/JVM-JVM-Memory-Structure-3f554fd8ab354f77a4ab177ae594cbb0?pvs=4)
+  - [컴파일, 빌드, 배포](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%BB%B4%ED%8C%8C%EC%9D%BC,%EB%B9%8C%EB%93%9C,%EB%B0%B0%ED%8F%AC.md)
   - [Garbage Collection](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
   - [객체지향](https://spotty-mushroom-2ad.notion.site/27093fd24e3d420d82756ee88cf8edbb?pvs=4)
     - [추상화](https://spotty-mushroom-2ad.notion.site/3fe38ef3f20846e595dc173de639e3f9?pvs=4)
