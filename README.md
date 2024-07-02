@@ -44,5 +44,6 @@
 <br>
 
 - ### 운영체제
+  - [프로세스, 스레드](https://github.com/sengmin14/CS-Study/blob/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%EC%93%B0%EB%A0%88%EB%93%9C.md)
 
 - ### 인프라
