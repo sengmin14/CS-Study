@@ -21,7 +21,7 @@
   - [JDBC](https://github.com/sengmin14/CS-Study/blob/main/Database/JDBC.md)
   - [정규화](https://github.com/sengmin14/CS-Study/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
   - [정규화, 반정규화](https://github.com/sengmin14/CS-Study/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
-  - [트랜잭션(ACID)](https://spotty-mushroom-2ad.notion.site/ACID-3f03050373784d8d9791ee39e8a7a36c?pvs=4)
+  - [트랜잭션(ACID)](https://github.com/sengmin14/CS-Study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(ACID).md)
   - [Isolation Level](https://spotty-mushroom-2ad.notion.site/Isolation-Level-b6471fff057947119b5032bd876a7170?pvs=4)
   - [DBCP](https://github.com/sengmin14/CS-Study/blob/main/Database/DBCP.md)
   <br>
