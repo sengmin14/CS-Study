@@ -7,7 +7,7 @@
   - [객체지향](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
     - [추상화](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%B6%94%EC%83%81%ED%99%94.md)
     - [캡슐화](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%BA%A1%EC%8A%90%ED%99%94.md)
-    - [상속](https://spotty-mushroom-2ad.notion.site/452c887600f64870b8b437be3a8cc001?pvs=4)
+    - [상속](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%83%81%EC%86%8D.md)
     - [다형성](https://spotty-mushroom-2ad.notion.site/80937ec65e4244a99cf746081d4eb634?pvs=4)
   - [오버로딩](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
   - [오버라이딩](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
