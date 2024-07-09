@@ -5,7 +5,7 @@
   - [컴파일, 빌드, 배포](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%BB%B4%ED%8C%8C%EC%9D%BC,%EB%B9%8C%EB%93%9C,%EB%B0%B0%ED%8F%AC.md)
   - [Garbage Collection](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
   - [객체지향](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
-    - [추상화](https://spotty-mushroom-2ad.notion.site/3fe38ef3f20846e595dc173de639e3f9?pvs=4)
+    - [추상화](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%B6%94%EC%83%81%ED%99%94.md)
     - [캡슐화](https://spotty-mushroom-2ad.notion.site/9e99e09e69f64e4bb7260337d79ece81?pvs=4)
     - [상속](https://spotty-mushroom-2ad.notion.site/452c887600f64870b8b437be3a8cc001?pvs=4)
     - [다형성](https://spotty-mushroom-2ad.notion.site/80937ec65e4244a99cf746081d4eb634?pvs=4)
