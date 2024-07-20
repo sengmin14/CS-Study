@@ -36,7 +36,7 @@
   - [Spring Container](https://spotty-mushroom-2ad.notion.site/ACID-3f03050373784d8d9791ee39e8a7a36c?pvs=4)
   - [Sprign DI](https://spotty-mushroom-2ad.notion.site/Isolation-Level-b6471fff057947119b5032bd876a7170?pvs=4)
   - [Spring Bean](https://spotty-mushroom-2ad.notion.site/ACID-3f03050373784d8d9791ee39e8a7a36c?pvs=4)
-  - [Spring AOP](https://spotty-mushroom-2ad.notion.site/AOP-079e19eaf1464fc99c4121319e798777?pvs=4)
+  - [Spring AOP](https://github.com/sengmin14/CS-Study/blob/main/Spring/AOP.md)
   - [Spring PSA](https://spotty-mushroom-2ad.notion.site/ACID-3f03050373784d8d9791ee39e8a7a36c?pvs=4)
   - [@Controller / @RestController 차이](https://github.com/sengmin14/CS-Study/blob/main/Spring/%40Controller.md)
   - [DAO, DTO, VO](https://github.com/sengmin14/CS-Study/blob/main/Spring/DAO%2CDTO%2CVO.md)
