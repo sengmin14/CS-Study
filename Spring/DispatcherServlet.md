@@ -4,7 +4,7 @@
 ```
 클라이언틀부터 요청이 오면 Tomcat내부 서블릿 컨테이너가 요청을 받게된다.
 그리고 이 모든 요청을 프론트 컨트롤러인 DispatcherServlet이 가장 먼저 받는다.
-DispatcherServlet은 공통적인 작업을 먼저 처리한 후에 해당 요청을 처리해야 하는 컨트롤러를 찾아 작업을 위
+DispatcherServlet은 공통적인 작업을 먼저 처리한 후에 해당 요청을 처리해야 하는 컨트롤러를 찾아 작업을 위임
 ```
 
 ## DispatcherServlet의 동작 과정
