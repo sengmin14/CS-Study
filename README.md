@@ -11,6 +11,7 @@
     - [상속](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%83%81%EC%86%8D.md)
     - [다형성](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EB%8B%A4%ED%98%95%EC%84%B1.md)
   - [Casting/Up and Down ]
+  - [equals,hashCode재정의](https://github.com/sengmin14/CS-Study/blob/main/JAVA/equals%2ChashCode%EC%9E%AC%EC%A0%95%EC%9D%98.md)
   - [오버로딩](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
   - [오버라이딩](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
   - [생성자](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
