@@ -4,6 +4,7 @@
   - [JVM 메모리 구조](https://spotty-mushroom-2ad.notion.site/JVM-JVM-Memory-Structure-3f554fd8ab354f77a4ab177ae594cbb0?pvs=4)
   - [컴파일, 빌드, 배포](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%BB%B4%ED%8C%8C%EC%9D%BC,%EB%B9%8C%EB%93%9C,%EB%B0%B0%ED%8F%AC.md)
   - [컴파일 과정]
+  - [JDK, JRE](https://github.com/sengmin14/CS-Study/blob/main/JAVA/JRE%2CJDK.md)
   - [Garbage Collection](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
   - [객체지향](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
     - [추상화](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%B6%94%EC%83%81%ED%99%94.md)
