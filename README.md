@@ -1,28 +1,29 @@
 ## 📌 Computer Science
 
 - ### JAVA
-  - [JVM 메모리 구조](https://spotty-mushroom-2ad.notion.site/JVM-JVM-Memory-Structure-3f554fd8ab354f77a4ab177ae594cbb0?pvs=4)
+  - [JVM 메모리 구조]
   - [컴파일, 빌드, 배포](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%BB%B4%ED%8C%8C%EC%9D%BC,%EB%B9%8C%EB%93%9C,%EB%B0%B0%ED%8F%AC.md)
   - [컴파일 과정]
   - [JDK, JRE](https://github.com/sengmin14/CS-Study/blob/main/JAVA/JRE%2CJDK.md)
-  - [Garbage Collection](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
+  - [Garbage Collection]
   - [객체지향](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
     - [추상화](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%B6%94%EC%83%81%ED%99%94.md)
     - [캡슐화](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%BA%A1%EC%8A%90%ED%99%94.md)
     - [상속](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%83%81%EC%86%8D.md)
     - [다형성](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EB%8B%A4%ED%98%95%EC%84%B1.md)
+  - [추상클래스, Interface](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4,Interface.md)
+  - [오버로딩]
+  - [오버라이딩]
+  - [생성자]
   - [Casting/Up and Down ]
   - [equals,hashCode재정의](https://github.com/sengmin14/CS-Study/blob/main/JAVA/equals%2ChashCode%EC%9E%AC%EC%A0%95%EC%9D%98.md)
-  - [오버로딩](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
-  - [오버라이딩](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
-  - [생성자](https://spotty-mushroom-2ad.notion.site/GC-429393af3a51426cbd94036afed5299f?pvs=4)
-  - [추상클래스, Interface](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4,Interface.md)
   - [컬렉션 프레임워크](https://github.com/sengmin14/CS-Study/blob/main/JAVA/CollectionFramwork.md)
   - [Servlet](https://github.com/sengmin14/CS-Study/blob/main/JAVA/Servlet.md)
   - [Dispatcher Servlet](https://github.com/sengmin14/CS-Study/blob/main/Spring/DispatcherServlet.md)
   - [예외처리](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
   - [try-with-resources](https://github.com/sengmin14/CS-Study/blob/main/JAVA/AutoCloseable%ED%81%B4%EB%9E%98%EC%8A%A4.md)
   - [Object 클래스](https://github.com/sengmin14/CS-Study/blob/main/JAVA/Object%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+  - [SOLID]
   <br>
 
 - ### Database
@@ -30,7 +31,7 @@
   - [정규화](https://github.com/sengmin14/CS-Study/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94.md)
   - [정규화, 반정규화](https://github.com/sengmin14/CS-Study/blob/main/Database/%EC%A0%95%EA%B7%9C%ED%99%94%EC%99%80%20%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
   - [트랜잭션(ACID)](https://github.com/sengmin14/CS-Study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98(ACID).md)
-  - [Isolation Level](https://spotty-mushroom-2ad.notion.site/Isolation-Level-b6471fff057947119b5032bd876a7170?pvs=4)
+  - [Isolation Level]
   - [트랜잭션 전파]
   - [DBCP](https://github.com/sengmin14/CS-Study/blob/main/Database/DBCP.md)
   <br>
