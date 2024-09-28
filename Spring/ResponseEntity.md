@@ -1,4 +1,4 @@
-# 🥕 RsponseEntity
+# 🥕 ResponseEntity
 - ResponseEntity는 HTTP 응답을 나타내는 Spring Framework의 클래스
 - 이 클래스는 요청에 대한 응답의 HttpHeader, HttpBody 및 Status Code를 포함하여 클라이언트에게 전달할 수 있는 다양한 기능을 제공
 
