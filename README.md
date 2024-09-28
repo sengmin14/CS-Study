@@ -53,6 +53,7 @@
   <br>
 
 - ### 디자인 패턴
+  - [Singleton Pattern]
   - [빌더 패턴](https://github.com/sengmin14/CS-Study/blob/main/Spring/%EB%B9%8C%EB%8D%94%20%ED%8C%A8%ED%84%B4.md)
   - [팩토리 메서드 패턴](https://github.com/sengmin14/CS-Study/blob/main/Spring/FactoryMethodPattern.md)
 <br>
