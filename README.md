@@ -23,7 +23,7 @@
   - [예외처리](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
   - [try-with-resources](https://github.com/sengmin14/CS-Study/blob/main/JAVA/AutoCloseable%ED%81%B4%EB%9E%98%EC%8A%A4.md)
   - [Object 클래스](https://github.com/sengmin14/CS-Study/blob/main/JAVA/Object%ED%81%B4%EB%9E%98%EC%8A%A4.md)
-  - [SOLID]
+  - [SOLID](https://github.com/sengmin14/CS-Study/blob/main/JAVA/SOLID.md)
   - [직렬화/역직렬화]
   <br>
 
