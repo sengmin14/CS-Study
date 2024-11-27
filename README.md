@@ -60,6 +60,9 @@
   - [팩토리 메서드 패턴](https://github.com/sengmin14/CS-Study/blob/main/Spring/FactoryMethodPattern.md)
 <br>
 
+- ### 컴퓨터 구조
+  - [시스템 버스]
+
 - ### 네트워크
   - [{ 모든 개발자를 위한 HTTP 웹 기본 지식 } #1 - 인터넷 네트워크]
   - [www.google.com 입력 시 일어나는 과정](https://github.com/sengmin14/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/google.com.md)
