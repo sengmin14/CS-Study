@@ -62,6 +62,7 @@
 
 - ### 컴퓨터 구조
   - [시스템 버스](https://github.com/sengmin14/CS-Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%B2%84%EC%8A%A4.md)
+  - [ALU / 제어장치](https://github.com/sengmin14/CS-Study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/ALU%EC%99%80%20%EC%A0%9C%EC%96%B4%EC%9E%A5%EC%B9%98.md)
 
 - ### 네트워크
   - [{ 모든 개발자를 위한 HTTP 웹 기본 지식 } #1 - 인터넷 네트워크]
