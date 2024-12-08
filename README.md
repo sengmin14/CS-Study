@@ -6,6 +6,7 @@
   - [컴파일 과정]
   - [JDK, JRE](https://github.com/sengmin14/CS-Study/blob/main/JAVA/JRE%2CJDK.md)
   - [Garbage Collection]
+  - [Wrapper 클래스]
   - [객체지향](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
     - [추상화](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%B6%94%EC%83%81%ED%99%94.md)
     - [캡슐화](https://github.com/sengmin14/CS-Study/blob/main/JAVA/%EC%BA%A1%EC%8A%90%ED%99%94.md)
