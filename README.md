@@ -70,7 +70,7 @@
   - [www.google.com 입력 시 일어나는 과정](https://github.com/sengmin14/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/google.com.md)
   - [시리얼 통신](https://github.com/sengmin14/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%8B%9C%EB%A6%AC%EC%96%BC%ED%86%B5%EC%8B%A0.md)
   - [OSI 7게층]
-    - [물리계층](https://github.com/sengmin14/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%8B%9C%EB%A6%AC%EC%96%BC%ED%86%B5%EC%8B%A0.md)
+    - [물리계층](https://github.com/sengmin14/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%AC%BC%EB%A6%AC%EA%B3%84%EC%B8%B5.md)
 
 - ### 운영체제
   - [프로세스, 스레드](https://github.com/sengmin14/CS-Study/blob/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%EC%93%B0%EB%A0%88%EB%93%9C.md)
