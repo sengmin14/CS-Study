@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7db7cfee-ef52-4a19-9662-4d84c390d94b)# 🥕 스위치
+# 🥕 스위치
 - 2계층의 대표적인 장비로 MAC주소 기반 통신
 - 허브의 단점을 보완
 - 라우팅 기능이 있는 스위치를 L3스위치라고도 부른다.
