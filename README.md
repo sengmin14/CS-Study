@@ -53,6 +53,7 @@
   - [@Controller / @RestController 차이](https://github.com/sengmin14/CS-Study/blob/main/Spring/%40Controller.md)
   - [DAO, DTO, VO](https://github.com/sengmin14/CS-Study/blob/main/Spring/DAO%2CDTO%2CVO.md)
   - [ResponseEntity](https://github.com/sengmin14/CS-Study/blob/main/Spring/ResponseEntity.md)
+  - [WAS/WS](https://github.com/sengmin14/CS-Study/blob/main/Spring/WAS%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95.md)
   <br>
 
 - ### 디자인 패턴
