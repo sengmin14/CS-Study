@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0841ed58-03f7-4e70-8aaf-433508d7101b)# 🥕 WAS 동작 과정
+# 🥕 WAS 동작 과정
 
 
 ## 정적 웹 페이지(Static Web Page)
